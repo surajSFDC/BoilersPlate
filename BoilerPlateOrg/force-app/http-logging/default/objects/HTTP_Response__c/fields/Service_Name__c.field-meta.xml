@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Service_Name__c</fullName>
+    <description>The name of the service that was requested (e.g. SendGrid Send Mail)</description>
+    <externalId>false</externalId>
+    <label>Service_Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

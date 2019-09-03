@@ -1,0 +1,12 @@
+<fields>
+    <fullName>Related_Record__c</fullName>
+    <description>Link to related record</description>
+    <externalId>false</externalId>
+    <formula>IF (NOT(ISBLANK(Related_Record_Id__c)), HYPERLINK(&quot;/&quot; &amp;  Related_Record_Id__c, &quot;Open Related Record&quot;), &quot;&quot;)</formula>
+    <inlineHelpText>Link to related record</inlineHelpText>
+    <label>Related Record</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

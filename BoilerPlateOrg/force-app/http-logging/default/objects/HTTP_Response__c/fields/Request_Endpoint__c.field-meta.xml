@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Request_Endpoint__c</fullName>
+    <description>The endpoint that was requested, causing the error</description>
+    <externalId>false</externalId>
+    <label>Request Endpoint</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

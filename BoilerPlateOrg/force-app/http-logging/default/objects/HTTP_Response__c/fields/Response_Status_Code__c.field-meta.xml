@@ -1,0 +1,12 @@
+<fields>
+    <fullName>Response_Status_Code__c</fullName>
+    <description>The status code embodied in the response</description>
+    <externalId>false</externalId>
+    <label>Response Status Code</label>
+    <precision>4</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</fields>

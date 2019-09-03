@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Response_Status_Message__c</fullName>
+    <description>The status message of the response</description>
+    <externalId>false</externalId>
+    <label>Response Status Message</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

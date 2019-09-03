@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Stack_Trace__c</fullName>
+    <description>Apex stack trace</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Apex stack trace</inlineHelpText>
+    <label>Stack Trace</label>
+    <length>32768</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</fields>

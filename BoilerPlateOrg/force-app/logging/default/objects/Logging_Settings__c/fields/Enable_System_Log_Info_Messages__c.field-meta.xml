@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Enable_System_Log_Info_Messages__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Enable logging of info level messages?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable logging of info level messages?</inlineHelpText>
+    <label>Enable System Log Info Messages?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

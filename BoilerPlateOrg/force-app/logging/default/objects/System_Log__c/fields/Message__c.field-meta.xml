@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Message__c</fullName>
+    <description>Full message details</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Full message details</inlineHelpText>
+    <label>Message</label>
+    <length>32768</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</fields>

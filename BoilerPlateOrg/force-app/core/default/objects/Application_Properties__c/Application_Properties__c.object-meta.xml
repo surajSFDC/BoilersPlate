@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>Allows the optional configuration of settings specific to this implementation of Salesforce.
+    Documentation should be produced for the settings that can be created to customise the behaviour of the application.
+    
+    Note: This custom setting requires that 'Manage List Custom Settings Type' is enabled under Setup->Data->Schema Settings.
+    
+    Documentation on usage can be found here:
+        https://makepositive.atlassian.net/wiki/spaces/DEV/pages/1193115688/Application+Properties
+    
+    </description>
+    <enableFeeds>false</enableFeeds>
+    <label>Application Properties</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>Value__c</columns>
+        <columns>Description__c</columns>
+        <columns>UPDATEDBY_USER</columns>
+        <columns>LAST_UPDATE</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <visibility>Public</visibility>
+</CustomObject>

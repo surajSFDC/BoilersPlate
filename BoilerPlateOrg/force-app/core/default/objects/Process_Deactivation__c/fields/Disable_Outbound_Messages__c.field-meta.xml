@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Disable_Outbound_Messages__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Disable workflow outbound messages (assumes workflow rules check this field)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Disable workflow outbound messages (workflow rules need to be implemented to check this custom setting to have any effect)</inlineHelpText>
+    <label>Disable Outbound Messages</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

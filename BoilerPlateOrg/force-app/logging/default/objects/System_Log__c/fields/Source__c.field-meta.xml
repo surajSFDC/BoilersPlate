@@ -1,0 +1,26 @@
+<fields>
+    <fullName>Source__c</fullName>
+    <description>Source of message</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Source of message</inlineHelpText>
+    <label>Source</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Apex</fullName>
+                <default>false</default>
+                <label>Apex</label>
+            </value>
+            <value>
+                <fullName>Integration</fullName>
+                <default>false</default>
+                <label>Integration</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</fields>

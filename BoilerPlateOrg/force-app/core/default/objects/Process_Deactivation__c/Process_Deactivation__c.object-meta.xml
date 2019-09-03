@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>Settings to disable various automated processes - validation rules, outbound messages, email alerts, workflows &amp; triggers
+    
+    Documentation on usage can be found here:
+        https://makepositive.atlassian.net/wiki/spaces/DEV/pages/1193115680/Process+Deactivation
+    
+    </description>
+    <enableFeeds>false</enableFeeds>
+    <label>Process Deactivation</label>
+    <visibility>Protected</visibility>
+</CustomObject>

@@ -1,0 +1,12 @@
+<fields>
+    <fullName>Class__c</fullName>
+    <description>Source Apex class</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Source Apex class</inlineHelpText>
+    <label>Class</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

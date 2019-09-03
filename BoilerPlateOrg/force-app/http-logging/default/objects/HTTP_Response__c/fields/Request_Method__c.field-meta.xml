@@ -1,0 +1,11 @@
+<fields>
+    <fullName>Request_Method__c</fullName>
+    <description>The HTTP method used when making the request</description>
+    <externalId>false</externalId>
+    <label>Request Method</label>
+    <length>20</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</fields>

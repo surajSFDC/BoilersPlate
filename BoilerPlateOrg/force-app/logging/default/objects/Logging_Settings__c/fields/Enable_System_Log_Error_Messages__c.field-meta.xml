@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Enable_System_Log_Error_Messages__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description>Enable logging of error level messages?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable logging of error level messages?</inlineHelpText>
+    <label>Enable System Log Error Messages?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

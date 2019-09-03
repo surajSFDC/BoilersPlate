@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Disable_Processes__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Disable all process builders (assumes process builders check this field)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Disable all process builders (process builders need to be implemented to check this custom setting to have any effect)</inlineHelpText>
+    <label>Disable Processes</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

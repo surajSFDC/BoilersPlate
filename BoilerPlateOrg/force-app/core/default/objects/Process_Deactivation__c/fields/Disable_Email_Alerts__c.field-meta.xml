@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Disable_Email_Alerts__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Disable workflow email alerts (assumes workflow rules check this field)</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Disable workflow email alerts (workflow rules need to be implemented to check this custom setting to have any effect)</inlineHelpText>
+    <label>Disable Email Alerts</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

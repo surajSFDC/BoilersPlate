@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Disable_Triggers__c</fullName>
+    <description>Disable specified triggers (assumes triggers are implemented using our TriggerHandler framework). Trigger names should be comma separated.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Disable specified custom triggers (this excludes triggers provided by managed packages). Trigger names should be comma separated.</inlineHelpText>
+    <label>Disable Triggers</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</fields>

@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Enable_System_Log_Warning_Messages__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Enable logging of warning level messages?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable logging of warning level messages?</inlineHelpText>
+    <label>Enable System Log Warning Messages?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>

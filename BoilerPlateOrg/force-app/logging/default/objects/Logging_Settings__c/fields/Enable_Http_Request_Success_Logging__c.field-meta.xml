@@ -1,0 +1,10 @@
+<fields>
+    <fullName>Enable_Http_Request_Success_Logging__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Enable logging of Successful back-end HTTP Requests? - Is used by the http-logging module, if imported.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enable logging of Successful back-end HTTP Requests? - Is used by the http-logging module, if imported.</inlineHelpText>
+    <label>Enable logging of Success HTTP Requests?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</fields>
